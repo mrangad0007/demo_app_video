@@ -9,7 +9,7 @@
 
 [![App Demo Video](https://example.com/video_thumbnail.jpg)](http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4)
 
-[![App Demo Video](https://example.com/video_thumbnail.jpg)](video.mp4)
+[![App Demo Video](https://example.com/video_thumbnail.jpg)](video2.mp4)
 
 ![gif](record.gif)
 
