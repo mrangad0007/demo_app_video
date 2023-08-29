@@ -16,7 +16,8 @@
 [Watch the App Demo Video](https://www.youtube.com/watch?v=g0GNuoCOtaQ)
 
 
-![gif](record.gif)
+![gif](cdl.gif)
+
 
 # open_ngo
 This is a flutter UI challenege project, where I will take on UI design and will try to implement that in Flutter.
