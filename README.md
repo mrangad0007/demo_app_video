@@ -11,6 +11,8 @@
 
 [![App Demo Video](https://example.com/video_thumbnail.jpg)](video2.mp4)
 
+[![App Demo Video]](video2.mp4)
+
 [Watch the App Demo Video](https://www.youtube.com/watch?v=g0GNuoCOtaQ)
 
 
