@@ -7,6 +7,10 @@
 
 [![App Demo Video](https://example.com/video_thumbnail.jpg)](https://codeinvesto.com/upload/app-emp-demo.mp4)
 
+[![App Demo Video](https://example.com/video_thumbnail.jpg)](video.mp4)
+
+![gif](record.gif)
+
 # open_ngo
 This is a flutter UI challenege project, where I will take on UI design and will try to implement that in Flutter.
 
