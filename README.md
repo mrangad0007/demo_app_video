@@ -18,11 +18,12 @@
 
 ![gif](cdl.gif)
 
-Code for npm
-    ```sudo npm i
-    sudo npm start```
+Code for 
+``` npm sudo npm i
+sudo npm start
+```
 
-    ``` cpp
+``` cpp
 bool getBit(int num, int i) {
     return ((num & (1<<i)) != 0);
 }
