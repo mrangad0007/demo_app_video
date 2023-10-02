@@ -30,6 +30,12 @@ bool getBit(int num, int i) {
 }
 ```
 
+
+`
+Hello this is code
+`
+
+
 '''
 cpp
 bool getBit(int num, int i) {
