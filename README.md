@@ -18,6 +18,10 @@
 
 ![gif](cdl.gif)
 
+Code for npm
+    sudo npm i
+    sudo npm start
+    
 
 # open_ngo
 This is a flutter UI challenege project, where I will take on UI design and will try to implement that in Flutter.
