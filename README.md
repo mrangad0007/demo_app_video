@@ -19,8 +19,8 @@
 ![gif](cdl.gif)
 
 Code for npm
-    sudo npm i
-    sudo npm start
+    ```sudo npm i
+    sudo npm start```
     
 
 # open_ngo
