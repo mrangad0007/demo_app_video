@@ -30,6 +30,13 @@ bool getBit(int num, int i) {
 }
 ```
 
+'''
+cpp
+bool getBit(int num, int i) {
+    return ((num & (1<<i)) != 0);
+}
+'''
+
 # open_ngo
 This is a flutter UI challenege project, where I will take on UI design and will try to implement that in Flutter.
 
